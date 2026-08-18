@@ -31,7 +31,7 @@ export class AuthService {
         name: `${req.firstName} ${req.lastName}`,
         email: req.email,
         phoneNumber: req.phoneNumber,
-        role: req.role,
+        role: [req.role],
         // role: [role],
         address_1: req.address_1,
         address_2: req.address_2,
