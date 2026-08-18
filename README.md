@@ -113,7 +113,8 @@ nx lint web
 ## 👥 Team
 
 - [MandavkarPranjal](https://github.com/MandavkarPranjal)
-- Collaborators: add the other two members here
+- [AnkurR15](https://github.com/AnkurR15)
+- [MithilMestry](https://github.com/MithilMestry)
 
 ## 📄 License
 
